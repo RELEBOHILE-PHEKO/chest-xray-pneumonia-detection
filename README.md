@@ -1,6 +1,6 @@
 # chest-xray-pneumonia-detection
 
-Project Description
+Project Description:
 This project investigates pneumonia detection using both classical machine learning and deep learning approaches on chest X-ray images. The aim is to compare how traditional models (XGBoost, Random Forest, MLP) and deep learning architectures (Advanced CNN, VGG16, ResNet50, DenseNet121) perform in detecting pneumonia while minimizing misclassification of healthy patients.
 
 The notebook includes:
